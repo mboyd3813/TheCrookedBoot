@@ -12,8 +12,44 @@ nav{
 
 h1{
     font-family: 'Kaushan Script', cursive;
+    margin: 20px auto 20px ;
 }
 
 h2{
     font-family: 'Kaushan Script', cursive;
+    margin: 20px auto 20px;
+}
+
+h4{
+    font-family: 'Kaushan Script', cursive;
+    margin: 20px auto 20px auto;
+}
+
+p{
+    /* font-family: 'Kaushan Script', cursive; */
+    margin: 20px auto 20px auto;
+}
+
+img{
+    margin: 20px auto 20px auto;
+}
+
+.navbar{
+    margin: auto -5px;
+}
+
+.container2{
+    width: 100%;
+    max-width: 800px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background: red;
+    background: linear-gradient(whitesmoke red);
+    background: -webkit-linear-gradient(whitesmoke, red);
+    background: -o-linear-gradient(whitesmoke, red);
+    background: -moz-linear-gradient(whitesmoke, red);
+    border-radius: 10px 10px 10px 50px;
+    border-bottom: whitesmoke 3px solid;
+    box-shadow: 5px 5px 10px black;
 }
